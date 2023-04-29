@@ -15,7 +15,7 @@ for (let i=0;i<=1;i++){
   //console.log(ojos);
 
   document.getElementById('eyes').style.verticalAlign = "middle";
-  document.getElementById('eyes').style.left = "28%";
+  document.getElementById('eyes').style.left = "27.5%";
   document.getElementById('eyes').style.position = "absolute";
   document.getElementById('eyes').style.top = "35%";
 }
